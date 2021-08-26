@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "e4a0771d195b19bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d717ccc32b62fbb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Zettel/Note.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8cf63dfc94af7f55",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ba94b4e74a6e351",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0598ecdc51a1ed5f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7553ccb671ea2ed0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a576d21b91cc6f4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "570ff7c90d1b6a05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b3f199e7232435a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Zettel/Note.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4d717ccc32b62fbb",
+  "lastOpenFiles": [
+    "Zettel/Note.md"
+  ]
+}
